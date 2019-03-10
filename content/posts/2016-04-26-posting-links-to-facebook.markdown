@@ -145,6 +145,7 @@ If I now reload the app and click `Share`, I get a post on the desired Facebook 
 
 ![facebook post](/images/facebook-post.png)
 
+
 That is great. As much as I dislike Facebook's privacy nonsense, I have to admit that it is really easy to do things such as this. Of course, I also always enjoy Clojure's ability to make these things so, so simple, as well.
 
 OK, so I have a few cleanup items left, but I'm happy that it only took a couple of hours to do this feature from scratch. The time taken includes researching everything from how to actually connect to Facebook using its JS SDK, finding the relevant Graph API docs, integrating that into the existing ReactJS app and writing the backend functionality.
