@@ -2,3 +2,8 @@ baseURL = "https://batasrki.github.io/"
 languageCode = "en-us"
 title = "(Insightful) Ramblings"
 theme = "ananke"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
