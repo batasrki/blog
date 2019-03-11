@@ -2,6 +2,7 @@
 title: "Deploying Elixir to Digital Ocean"
 date: 2019-03-09T22:40:52-05:00
 featured_image: 'images/header-image.jpeg'
+omit_header_text: true
 ---
 
 ## Deploying an Elixir/Phoenix app to Digital Ocean
