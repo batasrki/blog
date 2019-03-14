@@ -61,7 +61,7 @@ CMD ["/bin/bash"]
 
 ```
 
-```Build shell script
+```shell
 #!/usr/bin/env bash
 
 set -e
