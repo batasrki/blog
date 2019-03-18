@@ -1,7 +1,6 @@
 ---
 title: "Periodic Tasks in Elixir, Conclusion"
 date: 2019-03-17T21:46:23-04:00
-draft: true
 omit_header_text: true
 featured_image: 'images/periodic_task.png'
 ---
